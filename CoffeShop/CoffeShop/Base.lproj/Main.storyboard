@@ -84,7 +84,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZmH-Ng-S2J">
-                                <rect key="frame" x="-1" y="691" width="376" height="121"/>
+                                <rect key="frame" x="2.5" y="691" width="376" height="121"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Price" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" enabled="NO" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OER-bR-DoK">
                                         <rect key="frame" x="35" y="23" width="39" height="21"/>
@@ -296,7 +296,6 @@
                             <constraint firstItem="uu7-jO-cs6" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="2c7-XE-5Yw"/>
                             <constraint firstItem="JKr-p9-gjQ" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="uu7-jO-cs6" secondAttribute="trailing" constant="8" symbolic="YES" id="3R0-Np-fDe"/>
                             <constraint firstItem="JKr-p9-gjQ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="5YN-VE-9Rq"/>
-                            <constraint firstItem="ZmH-Ng-S2J" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="-1" id="8yU-h2-Z4V"/>
                             <constraint firstItem="Out-rE-Es4" firstAttribute="top" secondItem="uiy-gH-gnr" secondAttribute="bottom" constant="47" id="9pf-xP-wWd"/>
                             <constraint firstItem="jbW-J9-NCR" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="25" id="BUK-RO-5eX"/>
                             <constraint firstAttribute="bottom" secondItem="ZmH-Ng-S2J" secondAttribute="bottom" id="DbD-OJ-ZdA"/>
